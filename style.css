@@ -22,3 +22,10 @@ h3 {
 	text-transform: lowercase;
 	letter-spacing: 0.1em;
 }
+
+h4 {
+	font: 400 1em 'Raleway', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	text-transform: none;
+}
